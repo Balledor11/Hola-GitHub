@@ -14,6 +14,7 @@ public class Cuenta {
     private int numeroCuenta;
     private long DNIcliente;
     private int saldoactual;
+    private int prueba;
 
     public Cuenta() {
     }
